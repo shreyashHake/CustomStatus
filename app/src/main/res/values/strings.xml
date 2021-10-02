@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Radio Group And Button</string>
+    <string name="ms1">Don\'t clear</string>
+    <string name="msg2">Clear in 30 minutes</string>
+    <string name="msg3">Clear in 1 hour</string>
+    <string name="msg4">Clear in 4 hours</string>
+    <string name="msg5">Clear tomorrow</string>
+    <string name="emoji">TODO</string>
+    <string name="heading">Custom Status</string>
+    <string name="main">Set a custom status</string>
+    <string name="todo">TODO</string>
+</resources>
